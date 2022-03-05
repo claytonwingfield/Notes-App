@@ -1,0 +1,19 @@
+body{
+    display: block;
+    width: 100%;
+    text-align: center;
+
+}
+h1{
+    color: blue;
+    
+}
+
+article{
+    
+}
+p{
+    color: green;
+    text-decoration: underline;
+}
+
